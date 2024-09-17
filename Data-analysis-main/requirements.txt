@@ -1,3 +1,4 @@
+python==3.7
 click
 Flask
 Flask-Cors
@@ -11,9 +12,8 @@ pandas
 pickle-mixin
 python-dateutil
 pytz
-scikit-learn
+scikit-learn==1.0.2
 scipy
 six
-scikit-learn==1.0.0
 threadpoolctl
 Werkzeug
